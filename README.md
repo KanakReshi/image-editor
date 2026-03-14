@@ -120,4 +120,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+*You can visit our website here :* https://kanakreshi.github.io/image-editor/
+
 **Enjoy editing your photos! 📸**
